@@ -4,27 +4,15 @@ Enlisted below are all the major functions supported by the online shopping syst
 with the user classes. <br>
 ● Register: for customers and sellers  <br>
 ● Login: for customers and sellers  <br>
-● Logout: for customers  <br>
-● View Account Details: for customers and sellers  <br>
-● Edit Account Details: for customers and sellers  <br>
-● Search item: for customers  <br>
 ● View item: for customers  <br>
 ● Add item to cart: for customers  <br>
 ● View shopping cart: for customers  <br>
 ● Change items in cart: for customers  <br>
 ● Proceed to buy: for customers  <br>
-● Delivery & payment: for customers  <br>
 ● Place order: for customers  <br>
-● Track order: for customers  <br>
-● Cancel order: for customers  <br>
-● Return item: for customers  <br>
-● View orders and returns: for customers  <br>
-● Rate item: for customers  <br>
 ● Review item: for customers  <br>
 ● Recommendations: for customers  <br>
-● View sales: for sellers  <br>
-● Deliver items: for sellers  <br>
-● Upload listings: for sellers <br>
+
 <br>
 ![image](https://github.com/Vishallab/E-commerce-/assets/74778363/55f63e01-0f6d-464f-b176-21067a3d9ac3)
 ![image](https://github.com/Vishallab/E-commerce-/assets/74778363/96b64aef-325b-44b6-9bf5-6c960a8b8ee0)
